@@ -36,9 +36,9 @@ Ik ben een **Informatica Software Student** gepassioneerd over het bouwen van ap
 ## 🤝 Laten we Connecten!
 Ik sta altijd open voor samenwerking aan interessante projecten of het bespreken van softwareontwikkeling. Neem gerust contact op!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidfles)
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://kidfles.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kidfles@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daan-hoeksema-96b001236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://daanhoeksema.nl)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daan.hoeksema@outlook.com)
 
 ---
 ⭐️ Van [kidfles](https://github.com/kidfles)
