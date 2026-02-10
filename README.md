@@ -36,5 +36,9 @@ I'm an **Informatica Software Student** passionate about building applications a
 ## 🤝 Let's Connect!
 I'm always open to collaborating on interesting projects or discussing software development. Feel free to reach out!
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidfles)
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://kidfles.dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kidfles@example.com)
+
 ---
 ⭐️ From [kidfles](https://github.com/kidfles)
