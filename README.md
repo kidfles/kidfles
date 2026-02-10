@@ -38,4 +38,4 @@ Ik geniet van het oplossen van problemen en het leren van nieuwe dingen elke dag
 
 ---
 
-*Bedankt voor je bezoek aan mijn profiel! Voel je vrij om mijn repositories te bekijken en don't hesitate to reach out!* 🚀
+*Bedankt voor je bezoek aan mijn profiel! Voel je vrij om mijn repositories te bekijken en aarzel niet om contact op te nemen!* 🚀
