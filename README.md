@@ -1,7 +1,7 @@
 # Hallo daar! 👋 Ik ben Daan
 
 ## 🎓 Over Mij
-Ik ben een **Informatica Software Student** gepassioneerd over het bouwen van applicaties en het oplossen van praktische problemen door middel van code. Ik vind het geweldig om ideeën om te zetten in functionele software en ben constant bezig met het verkennen van nieuwe technologieën om mijn vaardigheden uit te breiden.
+Ik ben een Informatica Software Student gepassioneerd over het bouwen van applicaties en het oplossen van praktische problemen door middel van code. Ik vind het geweldig om ideeën om te zetten in functionele software en ben constant bezig met het verkennen van nieuwe technologieën om mijn vaardigheden uit te breiden.
 
 ## 💻 Tech Stack
 
